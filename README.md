@@ -1,4 +1,4 @@
 # track-and-field-rating
 
-A simple scoring tool for track and field events. Calculates standings and points based on performance and participation rules, following SEGAΣ guidelines. Built with Python and pandas.
+A scoring and evaluation system for track & field events based on official competition rules. Reads CSV results, applies ranking & scoring logic, and outputs final standings.
 
